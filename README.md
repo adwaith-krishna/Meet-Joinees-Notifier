@@ -10,4 +10,4 @@ The extension is designed for Google Meet
 **How to Use**
 Install the Extension: Download and add the extension to the browser.
 
-*Happy Meeting!*🎉
+*Happy Meeting!* 🎉
